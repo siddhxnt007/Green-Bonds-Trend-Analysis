@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-India Green Bond Trend Analysis is a data analytics project that analyzes SEBI-registered green bond issuance data to understand market trends, issuer behavior, and pricing patterns in India's green bond market.
+Green Bonds Trend Analysis is a data analytics project that analyzes SEBI-registered green bond issuance data to understand market trends, issuer behavior, and pricing patterns in India's green bond market.
 
 The project uses Python, Pandas, NumPy, Matplotlib, Seaborn, MySQL, SQL, and Power BI.
 
