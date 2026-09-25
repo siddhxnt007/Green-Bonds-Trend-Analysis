@@ -227,7 +227,7 @@ Green_bonds_trend_analysis_project/
 │
 ├── data/
 │   ├── raw/
-│   │   └── SEBI_Green_Bonds_ESG_Dataset.csv
+│   │   └── green_bond_trend_analysis.csv
 │   └── processed/
 │       └── india_green_bonds_cleaned.csv
 │
@@ -239,11 +239,11 @@ Green_bonds_trend_analysis_project/
 │   └── green_bonds_queries.sql
 │
 ├── Dashboard/
-│   └── Green_Bonds_Trend_Analysis.pbix
+│   └── Green_bond_trend_analysis.pbix
 │
 ├── research papers/
-│   ├── Research_Paper_1_Topic_Related.docx
-│   └── Research_Paper_2_Technology_Related.docx
+│   ├── Research_Paper_1(Topic_Related).docx
+│   └── Research_Paper_2(Technology_Related).docx
 │
 ├── README.md
 └── requirements.txt
