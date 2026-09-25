@@ -1,0 +1,61 @@
+Sr_No,Issuer,Issuer_Type,ESG_Category,Issuance_Date,Issuance_Year,Listing_Date,Listing_Lag_Days,Maturity_Date,Tenure_Years,Amount_Raised_Cr,Coupon_Percent,Is_Serial_Tranche,Unique_Issuance_Row,ISIN
+1,L&T Infrastructure Finance Company Ltd,Public/Listed Company,Green,2017-06-29,2017,2017-07-04,5,2024-11-18,7.0,667.0,7.59,False,True,INE691I07DZ9
+2,Tata Cleantech Capital Limited,Public/Listed Company,Green,2018-12-18,2018,2018-12-21,3,2023-12-18,5.0,180.0,8.74,False,True,INE857Q07216
+3,Indian Renewable Energy Development Agency Limited,Government/PSU Agency,Green,2019-01-03,2019,2019-01-21,18,2029-01-03,10.0,275.0,8.51,False,True,INE202E07260
+4,Indian Renewable Energy Development Agency Limited,Government/PSU Agency,Green,2019-01-17,2019,2019-01-31,14,2029-01-17,10.0,590.0,8.47,False,True,INE202E07278
+5,Ghaziabad Nagar Nigam,Municipal/Urban Local Body,Green,2021-03-31,2021,2021-04-08,8,2025-04-06,4.02,150.0,8.1,True,True,INE0GVF24014
+5,Ghaziabad Nagar Nigam,Municipal/Urban Local Body,Green,2021-03-31,2021,2021-04-08,8,2026-04-06,5.02,150.0,8.1,True,False,INE0GVF24022
+5,Ghaziabad Nagar Nigam,Municipal/Urban Local Body,Green,2021-03-31,2021,2021-04-08,8,2027-04-06,6.02,150.0,8.1,True,False,INE0GVF24030
+5,Ghaziabad Nagar Nigam,Municipal/Urban Local Body,Green,2021-03-31,2021,2021-04-08,8,2028-04-06,7.02,150.0,8.1,True,False,INE0GVF24048
+5,Ghaziabad Nagar Nigam,Municipal/Urban Local Body,Green,2021-03-31,2021,2021-04-08,8,2029-04-06,8.02,150.0,8.1,True,False,INE0GVF24055
+5,Ghaziabad Nagar Nigam,Municipal/Urban Local Body,Green,2021-03-31,2021,2021-04-08,8,2030-04-06,9.02,150.0,8.1,True,False,INE0GVF24063
+5,Ghaziabad Nagar Nigam,Municipal/Urban Local Body,Green,2021-03-31,2021,2021-04-08,8,2031-04-06,10.02,150.0,8.1,True,False,INE0GVF24071
+6,Yarrow Infrastructure Private Limited,Private Company,Green,2021-07-01,2021,2021-07-07,6,2024-07-01,3.0,581.0,6.49,False,True,INE001W07011
+7,Priapus Infrastructure Limited,Public/Listed Company,Green,2021-07-01,2021,2021-07-07,6,2024-07-01,3.0,16.0,6.49,False,True,INE964M07011
+8,Rattanindia Solar 2 Private Limited,Private Company,Green,2021-07-01,2021,2021-07-07,6,2024-07-01,3.0,227.0,6.49,False,True,INE935V07012
+9,Malwa Solar Power Generation Private Limited,Private Company,Green,2021-07-01,2021,2021-07-07,6,2024-07-01,3.0,197.0,6.49,False,True,INE999X07014
+10,Citra Real Estate Limited,Public/Listed Company,Green,2021-07-01,2021,2021-07-07,6,2024-07-01,3.0,19.0,6.49,False,True,INE969M07010
+11,Sepset Constructions Limited,Public/Listed Company,Green,2021-07-01,2021,2021-07-07,6,2024-07-01,3.0,197.0,6.49,False,True,INE961M07017
+12,Avaada Solarise Energy Private Limited,Private Company,Green,2022-03-02,2022,2022-03-07,5,2025-02-28,2.0,499.0,6.75,False,True,INE07H107012
+13,Clean Sustainable Energy Private Limited,Private Company,Green,2022-03-02,2022,2022-03-07,5,2025-02-28,2.0,334.0,6.75,False,True,INE00JT07017
+14,Fermi Solarfarms Private Limited,Private Company,Green,2022-03-02,2022,2022-03-07,5,2025-02-28,2.0,337.0,6.75,False,True,INE404X07015
+15,Avaada SataraMH Private Limited,Private Company,Green,2022-03-02,2022,2022-03-07,5,2025-02-28,2.0,270.0,6.75,False,True,INE0CSU07013
+16,Vikas Telecom Private Limited,Private Company,Green,2022-08-30,2022,2022-09-06,7,2025-08-29,3.0,495.0,7.65,False,True,INE466P07010
+17,Indore Municipal Corporation,Municipal/Urban Local Body,Green,2023-02-20,2023,2023-02-21,1,2026-02-20,3.0,244.0,8.25,True,True,INE00QS24019
+17,Indore Municipal Corporation,Municipal/Urban Local Body,Green,2023-02-20,2023,2023-02-21,1,2028-02-20,5.0,244.0,8.25,True,False,INE00QS24043
+17,Indore Municipal Corporation,Municipal/Urban Local Body,Green,2023-02-20,2023,2023-02-21,1,2030-02-20,7.0,244.0,8.25,True,False,INE00QS24027
+17,Indore Municipal Corporation,Municipal/Urban Local Body,Green,2023-02-20,2023,2023-02-21,1,2032-02-20,9.0,244.0,8.25,True,False,INE00QS24035
+18,Mindspace Business Parks REIT,REIT/Real Estate Trust,Green,2023-03-15,2023,2023-03-17,2,2026-04-13,3.0,550.0,8.02,False,True,INE0CCU07074
+19,Ahmedabad Municipal Corporation,Municipal/Urban Local Body,Green,2024-02-06,2024,2024-02-08,2,2029-02-06,5.0,200.0,7.9,False,True,INE117E08029
+20,Vadodara Municipal Corporation,Municipal/Urban Local Body,Green,2024-03-06,2024,2024-03-06,0,2029-03-04,5.0,100.0,7.9,False,True,INE0KDG08023
+21,Samunnati Financial Intermediation & Services Private Limited,Private Company,Green,2024-12-05,2024,2024-12-06,1,2026-01-05,1.0,50.0,11.25,False,True,INE551U07340
+22,Dme Development Limited,Public/Listed Company,Green,2024-12-11,2024,2024-12-12,1,2034-12-11,10.0,775.0,7.23,False,True,INE0J7Q07256
+23,Prayagraj Nagar Nigam,Municipal/Urban Local Body,Green,2025-05-02,2025,2025-05-05,3,2029-05-02,4.0,50.0,8.07,True,True,INE1QL524016
+23,Prayagraj Nagar Nigam,Municipal/Urban Local Body,Green,2025-05-02,2025,2025-05-05,3,2030-05-02,5.0,50.0,8.07,True,False,INE1QL524040
+23,Prayagraj Nagar Nigam,Municipal/Urban Local Body,Green,2025-05-02,2025,2025-05-05,3,2031-05-02,6.0,50.0,8.07,True,False,INE1QL524032
+23,Prayagraj Nagar Nigam,Municipal/Urban Local Body,Green,2025-05-02,2025,2025-05-05,3,2032-05-02,7.0,50.0,8.07,True,False,INE1QL524024
+24,Pimpri Chinchwad Municipal Corporation,Municipal/Urban Local Body,Green,2025-06-04,2025,2025-06-10,6,2029-06-04,4.0,100.0,7.85,True,True,INE0P1K24036
+24,Pimpri Chinchwad Municipal Corporation,Municipal/Urban Local Body,Green,2025-06-04,2025,2025-06-10,6,2030-06-04,5.0,100.0,7.85,True,False,INE0P1K24028
+25,Larsen & Toubro Limited,Public/Listed Company,Sustainability-Linked,2025-06-19,2025,2025-06-23,4,2028-06-19,3.0,500.0,6.35,False,True,INE018A08BN0
+26,Mindspace Business Parks REIT,REIT/Real Estate Trust,Sustainability-Linked,2025-08-20,2025,2025-08-21,1,2033-08-19,8.0,550.0,7.41,False,True,INE0CCU07157
+27,KPI Green Energy Limited,Public/Listed Company,Green,2025-09-11,2025,2025-09-15,4,2030-09-11,5.0,670.0,8.5,False,True,INE542W07014
+28,Surat Municipal Corporation,Municipal/Urban Local Body,Green,2025-10-13,2025,2025-10-14,1,2029-10-13,4.0,200.0,8.0,True,True,INE05NX24023
+28,Surat Municipal Corporation,Municipal/Urban Local Body,Green,2025-10-13,2025,2025-10-14,1,2029-10-13,5.0,200.0,8.0,True,False,INE05NX24031
+29,Muthoot Capital Services Limited,Public/Listed Company,Green,2025-10-17,2025,2025-10-20,3,2031-10-17,6.0,150.0,8.4,False,True,INE296G07317
+30,Brookfield India Real Estate Trust,REIT/Real Estate Trust,Sustainability-Linked,2025-12-22,2025,2025-12-23,1,2030-12-20,5.0,2000.0,8.02,False,True,INE0FDU07018
+31,Greater Chennai Corporation,Other,Green,2026-01-09,2026,2026-01-12,3,2030-01-09,4.0,205.59,7.95,True,True,INE1SKA24078
+31,Greater Chennai Corporation,Other,Green,2026-01-09,2026,2026-01-12,3,2031-01-09,5.0,205.59,7.95,True,False,INE1SKA24086
+31,Greater Chennai Corporation,Other,Green,2026-01-09,2026,2026-01-12,3,2032-01-09,6.0,205.59,7.95,True,False,INE1SKA24094
+31,Greater Chennai Corporation,Other,Green,2026-01-09,2026,2026-01-12,3,2033-01-09,7.0,205.59,7.95,True,False,INE1SKA24102
+31,Greater Chennai Corporation,Other,Green,2026-01-09,2026,2026-01-12,3,2034-01-09,8.0,205.59,7.95,True,False,INE1SKA24110
+31,Greater Chennai Corporation,Other,Green,2026-01-09,2026,2026-01-12,3,2035-01-09,9.0,205.59,7.95,True,False,INE1SKA24128
+31,Greater Chennai Corporation,Other,Green,2026-01-09,2026,2026-01-12,3,2036-01-09,6.0,205.59,7.95,True,False,INE1SKA24060
+32,Nashik Municipal Corporation,Municipal/Urban Local Body,Green,2026-03-05,2026,2026-03-06,1,2036-03-05,10.0,200.0,8.05,True,True,INE579F24107
+32,Nashik Municipal Corporation,Municipal/Urban Local Body,Green,2026-03-05,2026,2026-03-06,1,2035-03-05,9.0,200.0,8.05,True,False,INE579F24073
+32,Nashik Municipal Corporation,Municipal/Urban Local Body,Green,2026-03-05,2026,2026-03-06,1,2034-03-05,8.0,200.0,8.05,True,False,INE579F24081
+32,Nashik Municipal Corporation,Municipal/Urban Local Body,Green,2026-03-05,2026,2026-03-06,1,2033-03-05,7.0,200.0,8.05,True,False,INE579F24040
+32,Nashik Municipal Corporation,Municipal/Urban Local Body,Green,2026-03-05,2026,2026-03-06,1,2032-03-05,6.0,200.0,8.05,True,False,INE579F24057
+32,Nashik Municipal Corporation,Municipal/Urban Local Body,Green,2026-03-05,2026,2026-03-06,1,2030-03-05,4.0,200.0,8.05,True,False,INE579F24065
+32,Nashik Municipal Corporation,Municipal/Urban Local Body,Green,2026-03-05,2026,2026-03-06,1,2029-03-05,3.0,200.0,8.05,True,False,INE579F24099
+32,Nashik Municipal Corporation,Municipal/Urban Local Body,Green,2026-03-05,2026,2026-03-06,1,2031-03-05,5.0,200.0,8.05,True,False,INE579F24032
+33,Bank of Baroda,Bank/Financial Institution,Green,2026-03-05,2026,2026-03-06,1,2033-03-05,7.0,10000.0,7.1,False,True,INE028A08380

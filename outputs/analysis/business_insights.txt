@@ -1,0 +1,11 @@
+Total Issuances: 33
+Total Amount Raised (Cr): 21578.59
+Average Coupon Rate (%): 7.81
+Average Tenure (Years): 5.49
+Average Amount Raised per Issuance (Cr): 653.9
+Average Listing Lag (Days): 4.42
+Best Issuer Type: Bank/Financial Institution
+Best Issuance Year: 2026
+Most Common ESG Category: Green
+Most Common Tranche Type: Serial Tranche
+Top Issuer: Bank of Baroda
